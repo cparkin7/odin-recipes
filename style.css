@@ -5,7 +5,7 @@
 .header {
   background-color: hsl(204, 68%, 78%);
   font-family: Georgia, 'Times New Roman', Times, serif;
-}
+} 
 
 .image {
   width: 500px;
@@ -14,11 +14,13 @@
 
 .pasta-image{
   width: 500px;
-  height: 325px;
-  
+  height: 325px; 
 } 
 
 .title {
   color: hsl(0, 0%, 100%);
 }
 
+.description {
+  color: hsla(277, 72%, 37%, 0.75);
+}
