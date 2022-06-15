@@ -26,8 +26,10 @@
   text-align: center;
 }
 
-.description {
-  color: hsla(277, 72%, 37%, 0.75);
+.description,
+.steps,
+.ingredients {
+  color: hsla(229, 87%, 53%, 0.834);
 }
 
 .index-body {
@@ -42,5 +44,10 @@
 
 .dh, .ih, .sh {
   text-align: center;
-  background-color: lightgreen;
+  background-color: rgb(97, 183, 202);
+  color:hsla(195, 84%, 12%, 0.913)
+}
+
+.list-color {
+  color: rgb(255, 0, 191);
 }
