@@ -45,9 +45,5 @@
 .dh, .ih, .sh {
   text-align: center;
   background-color: rgb(97, 183, 202);
-  color:hsla(195, 84%, 12%, 0.913)
-}
-
-.list-color {
-  color: rgb(255, 0, 191);
+  color:hsla(255, 65%, 18%, 0.913)
 }
