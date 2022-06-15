@@ -1,6 +1,14 @@
+.homescreen,
+.recipe-homescreen {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .homescreen {
   background-color: hsla(121, 54%, 77%, 1);
-  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.recipe-homescreen {
+  background-color: hsla(200, 100%, 84%, 0.815);
 }
 
 .image {
