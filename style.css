@@ -1,26 +1,33 @@
 .homescreen {
-  background-color: hsla(121, 54%, 77%, 1)
-}
-
-.header {
-  background-color: hsl(204, 68%, 78%);
+  background-color: hsla(121, 54%, 77%, 1);
   font-family: Georgia, 'Times New Roman', Times, serif;
-} 
+}
 
 .image {
   width: 500px;
   height: auto;
 }
 
-.pasta-image{
+.pasta-image {
   width: 500px;
   height: 325px; 
 } 
 
 .title {
   color: hsl(0, 0%, 100%);
+  text-align: center;
 }
 
 .description {
   color: hsla(277, 72%, 37%, 0.75);
+}
+
+.index-body {
+  color:hsla(277, 72%, 37%, 0.75);
+
+}
+
+.welcome,
+.list {
+  background-color: aquamarine;
 }
