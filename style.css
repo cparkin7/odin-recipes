@@ -39,3 +39,8 @@
 .list {
   background-color: aquamarine;
 }
+
+.dh, .ih, .sh {
+  text-align: center;
+  background-color: lightgreen;
+}
